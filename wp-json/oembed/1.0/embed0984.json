@@ -1,0 +1,1 @@
+{"code":"rest_cannot_access","message":"Only authenticated users can access the User endpoint REST API.","data":{"status":401}}

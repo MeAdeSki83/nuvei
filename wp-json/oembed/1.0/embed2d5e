@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<oembed><code>rest_cannot_access</code><message>Only authenticated users can access the User endpoint REST API.</message><data><status>401</status></data></oembed>
